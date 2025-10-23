@@ -7,3 +7,10 @@
 # Karam Dosa
 * Dosa Batter
 * Erra Karam
+
+## Panner Dosa
+* Dosa Batter
+* Panner Curry
+* Carrot Onion
+* Tomato and Panner Scrambled
+* Ghee
