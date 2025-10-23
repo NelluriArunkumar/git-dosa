@@ -14,3 +14,4 @@
 * Carrot Onion
 * Tomato and Panner Scrambled
 * Ghee
+* Light oil
